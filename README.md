@@ -1,9 +1,6 @@
 #TemperatureChange
-<<<<<<< HEAD
-[![GitHub version](https://badge.fury.io/gh/guillempp%2FTemperatureChange.svg)](https://badge.fury.io/gh/guillempp%2FTemperatureChange)  ![](https://img.shields.io/badge/license-MIT-blue.svg?style=flat)  [![Github Releases](https://img.shields.io/github/downloads/atom/atom/latest/total.svg)](github.com/guillempp/TemperatureChange)  [![PyPI](https://img.shields.io/pypi/pyversions/Django.svg)](github.com/guillempp/TemperatureChange)  [![Twitter Follow](https://img.shields.io/twitter/follow/espadrine.svg?style=social&label=Follow)](twitter.com/guillempp)
-=======
-[![GitHub version](https://badge.fury.io/gh/guillempp%2FTemperatureChange.svg)](https://badge.fury.io/gh/guillempp%2FTemperatureChange)  ![](https://img.shields.io/badge/license-MIT-blue.svg?style=flat)
->>>>>>> origin/master
+
+[![GitHub version](https://badge.fury.io/gh/guillempp%2FTemperatureChange.svg)](https://badge.fury.io/gh/guillempp%2FTemperatureChange)  ![](https://img.shields.io/badge/license-MIT-blue.svg?style=flat)    [![PyPI](https://img.shields.io/pypi/pyversions/Django.svg)](github.com/guillempp/TemperatureChange)  [![Twitter Follow](https://img.shields.io/twitter/follow/espadrine.svg?style=social&label=Follow)](twitter.com/guillempp)
 
 This program is intended as an easy way to change temperature units.
 
