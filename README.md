@@ -1,18 +1,18 @@
-#TemperatureChange
+# TemperatureChange
 
 [![GitHub version](https://badge.fury.io/gh/guillempp%2FTemperatureChange.svg)](https://badge.fury.io/gh/guillempp%2FTemperatureChange)  ![](https://img.shields.io/badge/license-MIT-blue.svg?style=flat)
 
 This program is intended as an easy way to change temperature units.
 
-##Usage
+## Usage
 First you have to make sure the file TemperatureChange.py is in your project folder. It always takes a float and then returns a float.
-###Import
+### Import
 Adding the following import statement to your project.
 ```python
 import TemperatureChange
 ```
-###Usage for conversions
-####Celsius to Fahrenheit
+### Usage for conversions
+#### Celsius to Fahrenheit
 ``` python
 TemperatureChange.celsiusToFahrenheit(float)
 ```
@@ -25,19 +25,19 @@ result = TemperatureChange.celsiusToFahrenheit(degrees)
 ``` python
 TemperatureChange.fahrenheitToCelsius(float)
 ```
-####Celsius to Kelvin
+#### Celsius to Kelvin
 ``` python
 TemperatureChange.celsiusToKelvin(float)
 ```
-####Fahrenheit to Kelvin
+#### Fahrenheit to Kelvin
 ``` python
 TemperatureChange.fahrenheitToKelvin(float)
 ```
-####Kelvin to Celsius
+#### Kelvin to Celsius
 ``` python
 TemperatureChange.kelvinToCelsius(float)
 ```
-####Kelvin to Fahrenheit
+#### Kelvin to Fahrenheit
 ``` python
 TemperatureChange.kelvinToFahrenheit(float)
 ```
